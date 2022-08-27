@@ -4,7 +4,7 @@ Number Guessing game - a project under the JavaScript section of the Fullstack E
 
 ## Description
 
-The aim of this project was for us to write the JavaScript functions that will power the game. Codecademy provided the index.html, style.css & game.js files. I wrote the sript.js file.
+The aim of this project was to write the JavaScript functions that will power the game. Codecademy provided the index.html, style.css & game.js files. I wrote the sript.js file.
 
 ## Getting Started
 
